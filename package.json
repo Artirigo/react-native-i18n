@@ -11,6 +11,6 @@
   },
   "keywords": ["react-native", "react-component", "ios", "i18n"],
   "dependencies": {
-    "i18n-js": "github:fnando/i18n-js#v3.0.1"
+    "i18n-js": "^3.0.1"
   }
 }
